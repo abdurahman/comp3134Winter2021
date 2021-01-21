@@ -1,7 +1,7 @@
 1) What is the definition of server port?
 
 The answer is that a server port identifies a process when an Internet or other network
-messsage is forwarded when it arrives at a server.
+message is forwarded when it arrives at a server.
 
 2) What is server port range?
 
