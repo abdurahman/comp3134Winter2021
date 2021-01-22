@@ -1,0 +1,190 @@
+Websites: https://www.ultratools.com/tools/ipWhoisLookup
+          https://who.is
+
+1. IP Address: 8.8.8.8
+
+Source:  whois.arin.net
+IP Address:  8.8.8.8
+Name:  LVLT-GOGL-8-8-8
+Handle:  NET-8-8-8-0-1
+Registration Date:  14/03/14
+Range:  8.8.8.0-8.8.8.255
+Org:  Google LLC
+Org Handle:  GOGL
+Address:  1600 Amphitheatre Parkway
+City:  Mountain View
+State/Province:  CA
+Postal Code:  94043
+Country:  United States
+Name Servers:
+
+2. IP Address: 4.4.4.4
+
+
+Source:  whois.arin.net
+IP Address:  4.4.4.4
+Name:  LVLT-STATIC-4-4-16
+Handle:  NET-4-4-0-0-1
+Registration Date:  28/09/10
+Range:  4.4.0.0-4.4.255.255
+Org:  Level 3 Communications, Inc.
+Org Handle:  LVLT
+Address:  1025 Eldorado Blvd.
+City:  Broomfield
+State/Province:  CO
+Postal Code:  80021
+Country:  United States
+Name Servers:
+
+3. IP Address: 129.134.30.12
+
+NetRange:       129.134.0.0 - 129.134.255.255
+CIDR:           129.134.0.0/16
+NetName:        THEFA-3
+NetHandle:      NET-129-134-0-0-1
+Parent:         NET129 (NET-129-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:
+Organization:   Facebook, Inc. (THEFA-3)
+RegDate:        2015-05-13
+Updated:        2015-05-13
+Ref:            https://rdap.arin.net/registry/ip/129.134.0.0
+
+
+
+OrgName:        Facebook, Inc.
+OrgId:          THEFA-3
+Address:        1601 Willow Rd.
+City:           Menlo Park
+StateProv:      CA
+PostalCode:     94025
+Country:        US
+RegDate:        2004-08-11
+Updated:        2012-04-17
+Ref:            https://rdap.arin.net/registry/entity/THEFA-3
+
+
+OrgAbuseHandle: OPERA82-ARIN
+OrgAbuseName:   Operations
+OrgAbusePhone:  +1-650-543-4800
+OrgAbuseEmail:  noc@fb.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/OPERA82-ARIN
+
+OrgTechHandle: OPERA82-ARIN
+OrgTechName:   Operations
+OrgTechPhone:  +1-650-543-4800
+OrgTechEmail:  noc@fb.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/OPERA82-ARIN
+
+4. IP Address: 40.90.4.205
+
+NetRange:       40.74.0.0 - 40.125.127.255
+CIDR:           40.112.0.0/13, 40.74.0.0/15, 40.80.0.0/12, 40.96.0.0/12, 40.120.0.0/14, 40.125.0.0/17, 40.124.0.0/16, 40.76.0.0/14
+NetName:        MSFT
+NetHandle:      NET-40-74-0-0-1
+Parent:         NET40 (NET-40-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:
+Organization:   Microsoft Corporation (MSFT)
+RegDate:        2015-02-23
+Updated:        2015-05-27
+Ref:            https://rdap.arin.net/registry/ip/40.74.0.0
+
+
+
+OrgName:        Microsoft Corporation
+OrgId:          MSFT
+Address:        One Microsoft Way
+City:           Redmond
+StateProv:      WA
+PostalCode:     98052
+Country:        US
+RegDate:        1998-07-10
+Updated:        2017-01-28
+Comment:        To report suspected security issues specific to traffic emanating from Microsoft online services, including the distribution of malicious content or other illicit or illegal material through a Microsoft online service, please submit reports to:
+Comment:        * https://cert.microsoft.com.
+Comment:
+Comment:        For SPAM and other abuse issues, such as Microsoft Accounts, please contact:
+Comment:        * abuse@microsoft.com.
+Comment:
+Comment:        To report security vulnerabilities in Microsoft products and services, please contact:
+Comment:        * secure@microsoft.com.
+Comment:
+Comment:        For legal and law enforcement-related requests, please contact:
+Comment:        * msndcc@microsoft.com
+Comment:
+Comment:        For routing, peering or DNS issues, please
+Comment:        contact:
+Comment:        * IOC@microsoft.com
+Ref:            https://rdap.arin.net/registry/entity/MSFT
+
+
+OrgTechHandle: MRPD-ARIN
+OrgTechName:   Microsoft Routing, Peering, and DNS
+OrgTechPhone:  +1-425-882-8080
+OrgTechEmail:  IOC@microsoft.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/MRPD-ARIN
+
+OrgAbuseHandle: MAC74-ARIN
+OrgAbuseName:   Microsoft Abuse Contact
+OrgAbusePhone:  +1-425-882-8080
+OrgAbuseEmail:  abuse@microsoft.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/MAC74-ARIN
+
+5. IP Address: 17.253.200.1
+
+NetRange:       17.0.0.0 - 17.255.255.255
+CIDR:           17.0.0.0/8
+NetName:        APPLE-WWNET
+NetHandle:      NET-17-0-0-0-1
+Parent:          ()
+NetType:        Direct Assignment
+OriginAS:
+Organization:   Apple Inc. (APPLEC-1-Z)
+RegDate:        1990-04-16
+Updated:        2017-07-08
+Ref:            https://rdap.arin.net/registry/ip/17.0.0.0
+
+
+
+OrgName:        Apple Inc.
+OrgId:          APPLEC-1-Z
+Address:        20400 Stevens Creek Blvd., City Center Bldg 3
+City:           Cupertino
+StateProv:      CA
+PostalCode:     95014
+Country:        US
+RegDate:        2009-12-14
+Updated:        2017-07-08
+Ref:            https://rdap.arin.net/registry/entity/APPLEC-1-Z
+
+
+OrgAbuseHandle: APPLE11-ARIN
+OrgAbuseName:   Apple Abuse
+OrgAbusePhone:  +1-408-974-7777
+OrgAbuseEmail:  abuse@apple.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/APPLE11-ARIN
+
+OrgTechHandle: ZA42-ARIN
+OrgTechName:   Apple Computer Inc
+OrgTechPhone:  +1-408-974-7777
+OrgTechEmail:  drauschenberg@apple.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ZA42-ARIN
+
+OrgTechHandle: RAUSC15-ARIN
+OrgTechName:   Rauschenberg, David
+OrgTechPhone:  +1-408-974-8678
+OrgTechEmail:  drauschenberg@apple.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/RAUSC15-ARIN
+
+RTechHandle: ZA42-ARIN
+RTechName:   Apple Computer Inc
+RTechPhone:  +1-408-974-7777
+RTechEmail:  drauschenberg@apple.com
+RTechRef:    https://rdap.arin.net/registry/entity/ZA42-ARIN
+
+RTechHandle: RAUSC15-ARIN
+RTechName:   Rauschenberg, David
+RTechPhone:  +1-408-974-8678
+RTechEmail:  drauschenberg@apple.com
+RTechRef:    https://rdap.arin.net/registry/entity/RAUSC15-ARIN
