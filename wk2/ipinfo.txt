@@ -1,0 +1,39 @@
+1.
+IPv4 address for www.roots.ca
+Domain Name Server: 54.208.24.193
+
+2.
+IPv4 address for www.github.com
+Domain Name Server: 140.82.113.3
+
+3.
+IPv4 address for www.youtube.com
+Domain Name Server: 74.125.141.93
+Domain Name Server: 74.125.141.190
+Domain Name Server: 173.194.210.91
+Domain Name Server: 173.194.210.136
+Domain Name Server: 173.194.211.136
+Domain Name Server: 173.194.215.93
+Domain Name Server: 173.194.215.91
+Domain Name Server: 173.194.216.93
+Domain Name Server: 173.194.216.190
+Domain Name Server: 173.194.216.91
+Domain Name Server: 173.194.216.136
+Domain Name Server: 173.194.217.93
+Domain Name Server: 173.194.217.91
+Domain Name Server: 173.194.217.190
+Domain Name Server: 173.194.217.136
+Domain Name Server: 173.194.218.190
+
+4.
+IPv4 address for genius.com
+Domain Name Server: 104.18.18.96
+Domain Name Server: 104.18.19.96
+
+5.
+IPv4 address for discord.com
+Domain Name Server: 162.159.128.233
+Domain Name Server: 162.159.138.232
+Domain Name Server: 162.159.137.232
+Domain Name Server: 162.159.135.232
+Domain Name Server: 162.159.136.232
