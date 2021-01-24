@@ -1,0 +1,38 @@
+Nmap scan report for google.com (172.217.1.14)
+Host is up (0.0011s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:801::200e
+rDNS record for 172.217.1.14: iad23s25-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.91 seconds
+
+Nmap scan report for amazon.com (54.239.28.85)
+Host is up (0.023s latency).
+Other addresses for amazon.com (not scanned): 176.32.103.205 205.251.242.103
+Not shown: 98 closed ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 11.17 seconds
+
+Nmap scan report for discord.com (162.159.137.232)
+Host is up (0.0011s latency).
+Other addresses for discord.com (not scanned): 162.159.138.232 162.159.128.233 162.159.135.232 162.159.136.232
+
+PORT     STATE SERVICE
+8080/tcp open  http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 11.05 seconds
+
+Nmap scan report for twitter.com (104.244.42.1)
+Host is up (0.029s latency).
+Other addresses for twitter.com (not scanned): 104.244.42.129
+Not shown: 7980 filtered ports
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 31.56 seconds
