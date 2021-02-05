@@ -1,0 +1,17 @@
+tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+17:04:20.495083 IP 68.183.205.32.ssh > cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786: Flags [P.], seq 2078179657:2078179701, ack 718320267, win 501, options [nop,nop,TS val 3769861324 ecr 827518926], length 44
+17:04:20.495140 IP 68.183.205.32.ssh > cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786: Flags [P.], seq 44:152, ack 1, win 501, options [nop,nop,TS val 3769861324 ecr 827518926], length 108
+17:04:20.495174 IP 68.183.205.32.ssh > cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786: Flags [P.], seq 152:188, ack 1, win 501, options [nop,nop,TS val 3769861324 ecr 827518926], length 36
+17:04:20.506696 IP cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786 > 68.183.205.32.ssh: Flags [.], ack 0, win 37093, options [nop,nop,TS val 827518947 ecr 3769861321], length 0
+17:04:20.514810 IP cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786 > 68.183.205.32.ssh: Flags [.], ack 188, win 37091, options [nop,nop,TS val 827518951 ecr 3769861324], length 0
+17:04:22.659101 IP6 fe80::fcc5:91ff:fe8e:3d5 > ip6-allrouters: ICMP6, router solicitation, length 16
+17:04:23.981808 IP 185.31.76.91.19686 > 68.183.205.32.telnet: Flags [S], seq 2529255210, win 0, length 0
+17:04:27.140448 IP 194.147.140.22.40153 > 68.183.205.32.184: Flags [S], seq 2688812542, win 1024, length 0
+17:04:31.143495 IP cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786 > 68.183.205.32.ssh: Flags [P.], seq 1:37, ack 188, win 37094, options [nop,nop,TS val 827529472 ecr 3769861324], length 36
+17:04:31.143679 IP 68.183.205.32.ssh > cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786: Flags [P.], seq 188:224, ack 37, win 501, options [nop,nop,TS val 3769871973 ecr 827529472], length 36
+17:04:31.160182 IP cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786 > 68.183.205.32.ssh: Flags [.], ack 224, win 37093, options [nop,nop,TS val 827529488 ecr 3769871973], length 0
+17:04:31.846823 IP cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786 > 68.183.205.32.ssh: Flags [P.], seq 37:73, ack 224, win 37094, options [nop,nop,TS val 827530171 ecr 3769871973], length 36
+17:04:31.847019 IP 68.183.205.32.ssh > cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786: Flags [P.], seq 224:260, ack 73, win 501, options [nop,nop,TS val 3769872676 ecr 827530171], length 36
+17:04:31.865230 IP cpe00fc8d483dd3-cm00fc8d483dd0.cpe.net.cable.rogers.com.54786 > 68.183.205.32.ssh: Flags [.], ack 260, win 37093, options [nop,nop,TS val 827530186 ecr 3769872676], length 0
+17:04:33.724635 IP phhw-150801.cust.powerhosting.dk.3367 > 68.183.205.32.telnet: Flags [S], seq 3641206116, win 0, length 0
