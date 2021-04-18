@@ -1,0 +1,3 @@
+I see an array showing the html folder in the web root.
+
+The problem with this is that it is showing a folder that is not intended to be shown in public.

@@ -1,0 +1,3 @@
+As far as the screenshot shows, there issue is that the array is showing folders that are in the droplet that are not intended to be shown on the web.
+
+The array itself is the sensitive information that is given by the page.

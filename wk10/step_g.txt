@@ -1,0 +1,1 @@
+Changing the comments from html to php should mitigate the problem described.

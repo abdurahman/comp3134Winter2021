@@ -1,0 +1,7 @@
+I observed that the end of the html after /browse/ changes to what the term searched is.
+
+It will state that there is no result found for that word.
+
+What happens is that no alert pops up but it recommends articles unrelated to the script.
+
+The same thing happens.

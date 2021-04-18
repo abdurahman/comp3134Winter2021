@@ -1,0 +1,9 @@
+
+Warning:  scandir(hello): failed to open dir: No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+
+
+Warning:  scandir(): (errno 2): No such file or directory in /var/www/html/directory_traversal_part1.php on line 7
+
+
+The sensitive information that is given by the page is that the web root directory is showing when it should not be shown.
